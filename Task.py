@@ -36,7 +36,7 @@
 #     if i==x-1:
 #      print(i)
 #     if i==x+1:
-#         print(i)
+#         print(i+1)
     
         
     
